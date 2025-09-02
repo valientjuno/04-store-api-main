@@ -1,0 +1,23 @@
+{
+  "name": "04-store-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.6.0",
+    "express": "^4.21.2",
+    "express-async-errors": "^3.1.1",
+    "mongodb": "^6.19.0",
+    "mongoose": "^5.13.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "type": "commonjs"
+}
