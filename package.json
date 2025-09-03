@@ -13,8 +13,10 @@
     "dotenv": "^8.6.0",
     "express": "^4.21.2",
     "express-async-errors": "^3.1.1",
+    "install": "^0.13.0",
     "mongodb": "^6.19.0",
-    "mongoose": "^5.13.23"
+    "mongoose": "^5.13.23",
+    "node.js": "^0.0.1-security"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
