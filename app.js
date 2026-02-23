@@ -1,3 +1,6 @@
+const dns = require("node:dns/promises");
+dns.setServers(["8.8.8.8"]);
+
 require("dotenv").config();
 require("express-async-errors");
 
